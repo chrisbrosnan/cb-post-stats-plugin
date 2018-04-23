@@ -1,17 +1,7 @@
 <?php
 
 // Array of new string field labels
-$new_string_fields = array('',
-              '',
-              '',
-              '',
-              '',
-              '',
-              '',
-              '',
-              '',
-              '',
-              '');
+$new_string_fields = array('');
 
 add_action('init', 'set_new_string_post_fields');
 function set_new_string_post_fields($postID){
