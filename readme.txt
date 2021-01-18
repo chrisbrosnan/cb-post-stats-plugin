@@ -1,8 +1,1 @@
-PREMIUM FEATURES TO CREATE: 
-- Export as CSV/JSON
-- Send to Email
-- GA stats
-- Support for custom post types
-- Support for custom taxonomies
-- Author stats
-- Social stats
+Small plugin to add post status information into a small dialog box in WP Classic Box
